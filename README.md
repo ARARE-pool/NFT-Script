@@ -1,6 +1,8 @@
 # NFT-Script
 NFT script that make our life easier
+
 The script work with specific wallet name and hierarchy
+
 
 
 ## INSTRUCTIONS
