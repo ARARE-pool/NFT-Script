@@ -20,20 +20,15 @@ The script work with specific wallet name and hierarchy
 4) **Run** the script
 
 ## nft_env - Most fill everything     
-
+<pre>
 ASSETNAME="assetname"
-
 TOKENNAME="given name #001"
-
 IMGLINK="https://arare.io"
-
 CREATOR="Creator Name"
-
 IGLINK="https://instagram.com/ararestakepool"
-
 base_addr="$(cat $CNODE_HOME/priv/wallet/nft/base.addr)"
-
 asset_amount=10
+</pre>
 
 ## Running the Script
 
@@ -57,4 +52,4 @@ Thank you for your interest in [ARARE](https://arare.io) NFT Script! Head over t
 To report **bugs** and **issues** with scripts and documentation please join our [Telegram Chat](https://t.me/ararestakepool) **or** [GitHub Issue](https://github.com/ARARE-pool/NFT-Script/issues/new/choose).  
 **Feature requests** are best opened as a [discussion thread](https://github.com/ARARE-pool/NFT-Script/discussions/new).
 
-* inspired by cntools code
+<i>inspired by cntools code</i>
