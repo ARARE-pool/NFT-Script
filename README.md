@@ -40,5 +40,5 @@ Thank you for your interest in [ARARE](https://arare.io) NFT Script! Head over t
 
 #### Support
 
-To report **bugs** and **issues** with scripts and documentation please join our [Telegram Chat](https://t.me/ararestakepool).  
+To report **bugs** and **issues** with scripts and documentation please join our [Telegram Chat](https://t.me/ararestakepool) **or** [GitHub Issue](https://github.com/ARARE-pool/NFT-Script/issues/new/choose).  
 **Feature requests** are best opened as a [discussion thread](https://github.com/ARARE-pool/NFT-Script/discussions/new).
