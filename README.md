@@ -23,8 +23,8 @@ The script work with specific wallet name and hierarchy
 <pre>
 ASSETNAME="assetname"
 TOKENNAME="given name #001"
-IMGLINK="https://arare.io"
-CREATOR="Creator Name"
+IMGLINK="ipfs://QmZohc2mLgsXDhF17DskrLdGraPKPmSVbefp5kXmT7WfuC"
+CREATOR="ARARE Pool"
 IGLINK="https://instagram.com/ararestakepool"
 base_addr="$(cat $CNODE_HOME/priv/wallet/nft/base.addr)"
 asset_amount=10
