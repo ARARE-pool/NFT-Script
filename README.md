@@ -44,6 +44,10 @@ asset_amount=10
 ./sign.sh
 ```
 
+## More info
+the script is semi-auto, it need you to be involved in the order of executing, folders name, delete duplicate files ect..
+If you already executed `policy.sh` it will auto create a policy folder. if you want to run `policy.sh` again you need to delete/move the folder before you execute
+
 ## Contributing
 
 Thank you for your interest in [ARARE](https://arare.io) NFT Script! Head over to our [Telegram](https://t.me/ararestakepool) for instructions on how to use and for asking changes!
