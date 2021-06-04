@@ -1,7 +1,7 @@
 # NFT-Script
 NFT script that make our life easier
 
-The script work with specific wallet name and hierarchy
+The script work with specific wallet name and hierarchy. The script is one-time mint, if you want to mint more tokens you have to do it manually - This is how we learn
 
 **Script workflow**
 - Create Policy dir with **policy.vkey & policy.skey**
