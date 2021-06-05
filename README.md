@@ -17,9 +17,10 @@ The script work with specific wallet name and hierarchy. The script is one-time 
 1) Create a wallet && Named it **nft**
 2) Transfer **5 ADA** to nft wallet
 3) Make a dir with the name of the nft you want
-4) download the Github files into the folder
-5) Edit **nft_env** file - **make sure your NFT is already on ipfs**
-6) **Run** the script
+4) Download the Github files into the folder
+5) Add your env file
+6) Edit **nft_env** file - **make sure your NFT is already on ipfs**
+7) **Run** the script
 
 ## nft_env - Most fill everything     
 <pre>
