@@ -20,7 +20,7 @@ The script work with specific wallet name and hierarchy. The script is one-time 
 4) Download the Github files into the folder
 5) Add your env file to the folder
 6) Edit **nft_env** file - **make sure your NFT is already on ipfs**
-7) Change Permissions <pre>
+7) Change **Permissions** <pre>
 chmod 755 policy.sh
 chmod 755 metadata.sh
 chmod 755 sign.sh </pre> 
