@@ -18,7 +18,7 @@ The script work with specific wallet name and hierarchy. The script is one-time 
 2) Transfer **5 ADA** to nft wallet
 3) Make a dir with the name of the nft you want
 4) download the Github files into the folder
-5) Edit **nft_env** file
+5) Edit **nft_env** file - **make sure your NFT is already on ipfs**
 6) **Run** the script
 
 ## nft_env - Most fill everything     
@@ -27,7 +27,7 @@ ASSETNAME="assetname"
 TOKENNAME="given name #001"
 IMGLINK="ipfs://QmZohc2mLgsXDhF17DskrLdGraPKPmSVbefp5kXmT7WfuC"
 CREATOR="ARARE Pool"
-IGLINK="https://instagram.com/ararestakepool"
+IGLINK="https://instagram.com/adararestakepool"
 base_addr="$(cat $CNODE_HOME/priv/wallet/nft/base.addr)"
 asset_amount=10
 </pre>
