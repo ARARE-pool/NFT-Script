@@ -25,7 +25,9 @@ chmod 755 policy.sh
 chmod 755 metadata.sh
 chmod 755 sign.sh </pre> 
 8) **Run** the script
-
+```
+./policy.sh
+```
 
 ## nft_env - Most fill everything     
 <pre>
@@ -38,7 +40,6 @@ base_addr="$(cat $CNODE_HOME/priv/wallet/nft/base.addr)"
 asset_amount=10
 </pre>
 
-##
 
 ## Running the Script
 
@@ -46,11 +47,6 @@ asset_amount=10
 ./policy.sh
 ```
 
-## Sign & Submit
-
-```
-./sign.sh
-```
 
 ## More info
 the script is semi-auto, it need you to be involved in the order of executing, folders name, delete duplicate files ect..
