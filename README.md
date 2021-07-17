@@ -52,6 +52,11 @@ asset_amount=10
 the script is semi-auto, it need you to be involved in the order of executing, folders name, delete duplicate files ect..
 If you already executed `policy.sh` it will auto create a policy folder. if you want to run `policy.sh` again you need to delete/move the folder before you execute
 
+## KNOWN ERROR
+If your wallet include other asset then ADA the tx-out script will not write it correctly - will cause error when try to submit
+Please clean your wallet from any NFT before execute again the script
+
+
 ## Contributing
 
 Thank you for your interest in [ARARE](https://arare.io) NFT Script! Head over to our [Telegram](https://t.me/ararestakepool) for instructions on how to use and for asking changes!
